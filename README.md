@@ -1,4 +1,19 @@
 # 김찬우 201930207
+[ 12월 01일 ]
+학습내용
+
+state and lifecycle
+https://ko.reactjs.org/docs/state-and-lifecycle.html
+
+함수에서 클래스로 변환하기
+react.component를 확장하는 동일한 이름의 ES6 class 생성
+render함수 추가
+render() 안에 있는 props를 this.props로 변경하기
+
+
+state 직접 수정 X
+this.props와 state는 비동기 업데이트 될 수 있음
+
 [ 11월 17일 ]
 학습내용
 
